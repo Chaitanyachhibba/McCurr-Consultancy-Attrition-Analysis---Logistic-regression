@@ -1,0 +1,1 @@
+# McCurr-Consultancy-Attrition-Analysis---Logistic-regression
